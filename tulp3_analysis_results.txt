@@ -1,0 +1,489 @@
+TULP3 Sequence Analysis Results
+==============================
+
+Sequence Lengths:
+--------------------
+tulp3_hs: 442 amino acids
+tulp3_ms: 460 amino acids
+tulp3_gg20: 466 amino acids
+tulp3_xt: 509 amino acids
+tulp3_pt: 270 amino acids
+tulp3_bt: 478 amino acids
+tulp3_rn: 463 amino acids
+tulp3_mm: 454 amino acids
+tulp3_dr: 323 amino acids
+DmKINGTUBBY: 460 amino acids
+AtTLP7: 379 amino acids
+AtTLP10: 445 amino acids
+AtTLP5: 429 amino acids
+
+Pairwise LCS Results:
+--------------------
+
+tulp3_hs vs tulp3_ms:
+LCS Length: 329
+Similarity: 74.43%
+LCS Sequence (first 50 aa): MEARCPGDSFERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSETPL...
+--------------------------------------------------
+
+tulp3_hs vs tulp3_xt:
+LCS Length: 297
+Similarity: 67.19%
+LCS Sequence (first 50 aa): MERRSGSFEEAKLQRLLEKQRKKREMVQNRRRRSEQPLVNCNVILGIDGP...
+--------------------------------------------------
+
+tulp3_hs vs tulp3_pt:
+LCS Length: 269
+Similarity: 99.63%
+LCS Sequence (first 50 aa): MEASRCRLSPSGDSVFHEEMMKMRQAKLDYQRLLLEKRQRKKRLEPFMVQ...
+--------------------------------------------------
+
+tulp3_hs vs tulp3_rn:
+LCS Length: 337
+Similarity: 76.24%
+LCS Sequence (first 50 aa): MEARCPSGDSFEERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSET...
+--------------------------------------------------
+
+tulp3_hs vs tulp3_mm:
+LCS Length: 422
+Similarity: 95.48%
+LCS Sequence (first 50 aa): MEASRCRLPSGDSVFHEEMMKMRQAKLDYQRLLLEKRQRKKRLEPFMVQP...
+--------------------------------------------------
+
+tulp3_ms vs tulp3_xt:
+LCS Length: 322
+Similarity: 70.00%
+LCS Sequence (first 50 aa): MERGRGSFDERLRLKLNQRLLEKQRKKRELMVQNRRRRSEEPLVQSVILG...
+--------------------------------------------------
+
+tulp3_ms vs tulp3_pt:
+LCS Length: 186
+Similarity: 68.89%
+LCS Sequence (first 50 aa): MEARCRGDSFERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSETPL...
+--------------------------------------------------
+
+tulp3_ms vs tulp3_rn:
+LCS Length: 443
+Similarity: 96.30%
+LCS Sequence (first 50 aa): MEAARCAPGRGDSAFDETLRLRQLKLDNQRALLEKKQRKKRLEPLMVQPN...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_hs:
+LCS Length: 313
+Similarity: 70.81%
+LCS Sequence (first 50 aa): MEASRCLSGSFEEMKRQKLQRLLEKQKKRLPMVQPNPEALRKPEQTPLVT...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_ms:
+LCS Length: 349
+Similarity: 75.87%
+LCS Sequence (first 50 aa): MEARCGGSFDELRQLKLNQRALLEKKQKKRLPLMVQPNPEALRKPGEETP...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_xt:
+LCS Length: 320
+Similarity: 68.67%
+LCS Sequence (first 50 aa): MERRSGGSFEDELRLKLENQRLLEQKKKRLMVQNRPKGEEQPLVSVVLGI...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_pt:
+LCS Length: 172
+Similarity: 63.70%
+LCS Sequence (first 50 aa): MEASRCLSGSFEEMKRQKLQRLLEKQKKRLPMVQPNPEALRKPEQTPLVT...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_rn:
+LCS Length: 355
+Similarity: 76.67%
+LCS Sequence (first 50 aa): MEARCGGSFEDELRQLKLNQRALLEKKQKKRLPLMVQPNPEALRKPGEET...
+--------------------------------------------------
+
+tulp3_gg20 vs tulp3_mm:
+LCS Length: 317
+Similarity: 69.82%
+LCS Sequence (first 50 aa): MEASRCLGGSFEEMKRQKLQRLLEKQKKRLPMVQPNPEALRKPEQTPLVT...
+--------------------------------------------------
+
+tulp3_pt vs tulp3_xt:
+LCS Length: 168
+Similarity: 62.22%
+LCS Sequence (first 50 aa): MERRSGSFEEAKLQRLLEKQRKKREMVQNRRRRSEQPLVNCNVILGIDGP...
+--------------------------------------------------
+
+tulp3_pt vs tulp3_rn:
+LCS Length: 194
+Similarity: 71.85%
+LCS Sequence (first 50 aa): MEARCPSGDSFEERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSET...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_hs:
+LCS Length: 329
+Similarity: 74.43%
+LCS Sequence (first 50 aa): MESRRPSGDSFEEMKRQKLDQRLLEKQRKKRLEPMVQPNEARLRRPRAEQ...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_ms:
+LCS Length: 384
+Similarity: 83.48%
+LCS Sequence (first 50 aa): MEAAAGPRGSAFDETLRQLKLDNQRALLEKKQRKKRLEPLMVQPNEARLR...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_gg20:
+LCS Length: 354
+Similarity: 75.97%
+LCS Sequence (first 50 aa): MEGRRSGGSFEDEMKLRQLKLNQRALLEKKQKKRLPLMVQPNEALRPGEE...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_xt:
+LCS Length: 332
+Similarity: 69.46%
+LCS Sequence (first 50 aa): MERGRSGGSFEDELRLKLNQRLLEKQRKKRELMVQNRRRRGEEALVQQVI...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_pt:
+LCS Length: 188
+Similarity: 69.63%
+LCS Sequence (first 50 aa): MESRRPSGDSFEEMKRQKLDQRLLEKQRKKRLEPMVQPNEARLRRPRAEQ...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_rn:
+LCS Length: 386
+Similarity: 83.37%
+LCS Sequence (first 50 aa): MEAAAPRGSAFEDETLRQLKLDNQRALLEKKQRKKRLEPLMVQPNEARLR...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_mm:
+LCS Length: 333
+Similarity: 73.35%
+LCS Sequence (first 50 aa): MESRRGPSGDSFEEMKRQKLDQRLLEKQRKKRLEPMVQPNEARLRRPRAE...
+--------------------------------------------------
+
+tulp3_bt vs tulp3_dr:
+LCS Length: 178
+Similarity: 55.11%
+LCS Sequence (first 50 aa): SSLDDSLRQKLQRALLEKQRKRELMVQPNRPRRPRREEALVEAGVILQID...
+--------------------------------------------------
+
+tulp3_rn vs tulp3_xt:
+LCS Length: 323
+Similarity: 69.76%
+LCS Sequence (first 50 aa): MERGRGSFEDERLRLKLNQRLLEKQRKKRELMVQNRRRRSEEPLVQSVIL...
+--------------------------------------------------
+
+tulp3_mm vs tulp3_ms:
+LCS Length: 333
+Similarity: 73.35%
+LCS Sequence (first 50 aa): MEARCGPGDSFERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSETP...
+--------------------------------------------------
+
+tulp3_mm vs tulp3_xt:
+LCS Length: 296
+Similarity: 65.20%
+LCS Sequence (first 50 aa): MERGSGSFEEAKLQRLLEKQRKKREMVQNRRRRSEQPLVNCNVILGIDGP...
+--------------------------------------------------
+
+tulp3_mm vs tulp3_pt:
+LCS Length: 258
+Similarity: 95.56%
+LCS Sequence (first 50 aa): MEASRCRLPSGDSVFHEEMMKMRQAKLDYQRLLLEKRQRKKRLEPFMVQP...
+--------------------------------------------------
+
+tulp3_mm vs tulp3_rn:
+LCS Length: 339
+Similarity: 74.67%
+LCS Sequence (first 50 aa): MEARCPSGDSFEERQKLDQRLLEKQRKKRLEPMVQPNPEARLRRKPRSET...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_hs:
+LCS Length: 164
+Similarity: 50.77%
+LCS Sequence (first 50 aa): SLDSRQKLQRLLEKRRKRLMVQPNPRRRPRSEQPLVNTHSVILHIDGPAA...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_ms:
+LCS Length: 178
+Similarity: 55.11%
+LCS Sequence (first 50 aa): EDSLLRQLKQRALLEKQRKRLLMVQPNPRRRPRSEEPLVDSVILHIDGPA...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_gg20:
+LCS Length: 184
+Similarity: 56.97%
+LCS Sequence (first 50 aa): SLEDLRQKLEQRALLEKQKRLLMVQPNPRSPEEQPLVETTTHSVLHIDPL...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_xt:
+LCS Length: 192
+Similarity: 59.44%
+LCS Sequence (first 50 aa): SSEDSLRKLEQRLLEQKQRKRQELMVQNRRRRPSEEQAPLVSSVCILNID...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_pt:
+LCS Length: 161
+Similarity: 59.63%
+LCS Sequence (first 50 aa): SLDSRQKLQRLLEKRRKRLMVQPNPRRRPRSEQPLVNTHSVILHIDGPAA...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_rn:
+LCS Length: 182
+Similarity: 56.35%
+LCS Sequence (first 50 aa): SSEDLLRQLKQRALLEKQRKRLLMVQPNPRRRPRSEEPLVDTSVILHIDG...
+--------------------------------------------------
+
+tulp3_dr vs tulp3_mm:
+LCS Length: 164
+Similarity: 50.77%
+LCS Sequence (first 50 aa): SLDSRQKLQRLLEKRRKRLMVQPNPRRRPRSEQPLVNTHSVILHIDGPAA...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_hs:
+LCS Length: 246
+Similarity: 55.66%
+LCS Sequence (first 50 aa): MSGSKMQQRLERQKRPMVQPNELAPSDQTPVNTHSNLIDLESSSSVVEAN...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_ms:
+LCS Length: 253
+Similarity: 55.00%
+LCS Sequence (first 50 aa): MGSRQKQRLEQKRPMVQALRPGMRSLHDGPFPQDLSPGPATSSEADLEIS...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_gg20:
+LCS Length: 254
+Similarity: 55.22%
+LCS Sequence (first 50 aa): MSGSRQKEQRLEQKRPMVQALRSGELHAGISSQDLGSGINANNHLTEALE...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_xt:
+LCS Length: 263
+Similarity: 57.17%
+LCS Sequence (first 50 aa): MSGSRKEQRLEQKRMVQSDQRPSGEAPQSQQILNGIPASHLSIQLESDSS...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_pt:
+LCS Length: 141
+Similarity: 52.22%
+LCS Sequence (first 50 aa): MSGSKMQQRLERQKRPMVQPNELAPSDQTPVNTHSNILHLDESSPVVEAN...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_bt:
+LCS Length: 257
+Similarity: 55.87%
+LCS Sequence (first 50 aa): MSSRMEQQRLEQKRPMVQALRPRREHAPQPQGGGIPATRHLSTEDESDES...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_rn:
+LCS Length: 254
+Similarity: 55.22%
+LCS Sequence (first 50 aa): MSGSRQKQRLEQKRPMVQALRPRSEHPPQPDILGIPALEADLESLSSPTE...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_mm:
+LCS Length: 244
+Similarity: 53.74%
+LCS Sequence (first 50 aa): MSGSKMQQRLERQKRPMVQPNELAPSDQTPVNTHSNLIDLESSLEEETVA...
+--------------------------------------------------
+
+DmKINGTUBBY vs tulp3_dr:
+LCS Length: 150
+Similarity: 46.44%
+LCS Sequence (first 50 aa): SSNQKEQRLEQKRQLQNPGRSREAPISSDILGTNHSMLTIQADLLEDSVV...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_hs:
+LCS Length: 177
+Similarity: 46.70%
+LCS Sequence (first 50 aa): MSRLSSSFHEAEEPPNALPELLGIVEEEDVTASKEHDFARSSNSGTSLLG...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_ms:
+LCS Length: 175
+Similarity: 46.17%
+LCS Sequence (first 50 aa): MPRSLRRNRQEPESEPPPSGALPELEVEETEDPTAKEIHDARSSSKTSLG...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_gg20:
+LCS Length: 179
+Similarity: 47.23%
+LCS Sequence (first 50 aa): MRSRSSFRQEAEESPPPSAGSSSSALELLEIREETERPQRSKKEIASSPS...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_xt:
+LCS Length: 185
+Similarity: 48.81%
+LCS Sequence (first 50 aa): MRSLLRRISNRQGEAPSSINGSSSWPEGERRVEETPQRRDVSKREIDFAR...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_pt:
+LCS Length: 113
+Similarity: 41.85%
+LCS Sequence (first 50 aa): MSRLSSSFHEEMMLLLERQRKKREFNPLKPRSQTLTPSDGAALDASVSDN...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_bt:
+LCS Length: 177
+Similarity: 46.70%
+LCS Sequence (first 50 aa): MSSLRRPPSMAGWSAMLLLERRVEEEDPQDVVTVSTDASSSKPLKLGRSQ...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_rn:
+LCS Length: 178
+Similarity: 46.97%
+LCS Sequence (first 50 aa): MPSRSLRRNRQEPESEPPPSGALPELEVEETEDPVTASKEIHDASSLSGK...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_mm:
+LCS Length: 181
+Similarity: 47.76%
+LCS Sequence (first 50 aa): MSRSLLRRRFQEAPSEPPSNGALPERVEEDVTASKEHDFRSSLNSGTSCL...
+--------------------------------------------------
+
+AtTLP7 vs tulp3_dr:
+LCS Length: 127
+Similarity: 39.32%
+LCS Sequence (first 50 aa): SSLSNRQEAEEPNPGRRRPRRAVEITASLNSKITFCLLGPDSQLTSTATP...
+--------------------------------------------------
+
+AtTLP7 vs DmKINGTUBBY:
+LCS Length: 181
+Similarity: 47.76%
+LCS Sequence (first 50 aa): MSSLRRISNSREAPSSPPSNASSSSALEEIEEDPVTVIHASSNSTSKPRF...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_hs:
+LCS Length: 187
+Similarity: 42.31%
+LCS Sequence (first 50 aa): MSRGVQDLRFLRRSDLSLHGGESSSSVVANPLLDISESVACASSAQLGIL...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_ms:
+LCS Length: 193
+Similarity: 43.37%
+LCS Sequence (first 50 aa): MRGRGSLRRDRLLKKQRESRDLLSPVVTSAPPELLVKEEENPARKAASSA...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_gg20:
+LCS Length: 198
+Similarity: 44.49%
+LCS Sequence (first 50 aa): MSRVLGGSLRRRLLHKKGFESSSDLLSVITANLELLIKRLEEESPARKAA...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_xt:
+LCS Length: 197
+Similarity: 44.27%
+LCS Sequence (first 50 aa): MRGRGGSSRRRLLKKQSRSSSDLLSIQTSWNPPELLDVKRLEESESNARA...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_pt:
+LCS Length: 121
+Similarity: 44.81%
+LCS Sequence (first 50 aa): MSRRLSSDSHKAQRERLPVQPPELKRSEPVCSVILGIGPVLKPDASSPVE...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_bt:
+LCS Length: 197
+Similarity: 44.27%
+LCS Sequence (first 50 aa): MSRGRDGGRSFDRLLKKQRRLPVQNLPPELLVILPAKHVVAASSRAQEVL...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_rn:
+LCS Length: 193
+Similarity: 43.37%
+LCS Sequence (first 50 aa): MRGRGSLRRDRLLKKQRERLLSPVQTSLPPEDKLEESESPVASQEILGPE...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_mm:
+LCS Length: 190
+Similarity: 42.70%
+LCS Sequence (first 50 aa): MSRRLSSFDRLLKQRRLPVQNPPELLDVKRLEEENAKHVACASCSAQLGI...
+--------------------------------------------------
+
+AtTLP10 vs tulp3_dr:
+LCS Length: 141
+Similarity: 43.65%
+LCS Sequence (first 50 aa): FLDSLRRLLKQRRLLVQPPDRPRRSRQEILGICKLLKMFKKLTFHCPALL...
+--------------------------------------------------
+
+AtTLP10 vs DmKINGTUBBY:
+LCS Length: 193
+Similarity: 43.37%
+LCS Sequence (first 50 aa): MSGIQLRGSLRSRSSLHAGFSSDLSPIVTSRNLEDLEESESPVVAASSRA...
+--------------------------------------------------
+
+AtTLP10 vs AtTLP7:
+LCS Length: 229
+Similarity: 60.42%
+LCS Sequence (first 50 aa): MLRSLSRRSFRHQGSESSSSSWALPELLIREEEWPRVVCACSWREILGKT...
+--------------------------------------------------
+
+AtTLP10 vs AtTLP5:
+LCS Length: 303
+Similarity: 70.63%
+LCS Sequence (first 50 aa): MSFIVDRDGSSRRSFDRSGQRSSDLIVTRWANLPLLDVKLESESWPARKV...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_hs:
+LCS Length: 181
+Similarity: 42.19%
+LCS Sequence (first 50 aa): MSRRSSSFDRQRKVEADLVNTNLPAAVLDESSVVAVTRLKDISESGLPSQ...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_ms:
+LCS Length: 181
+Similarity: 42.19%
+LCS Sequence (first 50 aa): MRRGSFRRDRVNGHQRSVHIDLKALPAADKKLDEESPARQAAGVTDVELF...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_gg20:
+LCS Length: 184
+Similarity: 42.89%
+LCS Sequence (first 50 aa): MRRVGSFRRRVNHRSKGVEAHIEDLVITANALLRKLDEETPAQATIKSFS...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_xt:
+LCS Length: 194
+Similarity: 45.22%
+LCS Sequence (first 50 aa): MRTGSFSRRRVSNTQRKSGEELVKNNLPAALDSESKQVVGCTDVPESGTP...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_pt:
+LCS Length: 119
+Similarity: 44.07%
+LCS Sequence (first 50 aa): MSRRSSGSVHEKRALLLLEKQRKKLPVQPNPEARRRARSTLSNLGIDPAL...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_bt:
+LCS Length: 186
+Similarity: 43.36%
+LCS Sequence (first 50 aa): MSSRRGRDRSGRGAEDLKNRANLPAALLVLDPAKQVVAATRKDVKSFSGK...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_rn:
+LCS Length: 179
+Similarity: 41.72%
+LCS Sequence (first 50 aa): MRGSRSFDRNQRALKRLPALLRDVLDEESKQVVAGVTKDIKSPEGLSLPG...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_mm:
+LCS Length: 178
+Similarity: 41.49%
+LCS Sequence (first 50 aa): MSRRGSSFDRQRKVEADLVNTNLPAAVLDESSPAVGTLKDISESGLPSQG...
+--------------------------------------------------
+
+AtTLP5 vs tulp3_dr:
+LCS Length: 133
+Similarity: 41.18%
+LCS Sequence (first 50 aa): FSDDSRRRVNGRSSVEAIDLIVKLLLMKKLTQACAGLKIVSSTPQPPDDT...
+--------------------------------------------------
+
+AtTLP5 vs DmKINGTUBBY:
+LCS Length: 182
+Similarity: 42.42%
+LCS Sequence (first 50 aa): MSIRRRRSVSNGRSSEHIDLIVNTRNLADLDESESTPARQVAGVRMKDSS...
+--------------------------------------------------
+
+AtTLP5 vs AtTLP7:
+LCS Length: 221
+Similarity: 58.31%
+LCS Sequence (first 50 aa): MLSRSSRRSFRHQGEAEINWALPLLRVEETWPQVVCACKWREFSGKTFPS...
+--------------------------------------------------

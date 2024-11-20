@@ -1,0 +1,20 @@
+TULP3 Sequence Clustering Analysis
+========================================
+
+Cluster 2:
+  - tulp3_hs (Length: 442 aa)
+  - tulp3_ms (Length: 460 aa)
+  - tulp3_gg20 (Length: 466 aa)
+  - tulp3_xt (Length: 509 aa)
+  - tulp3_pt (Length: 270 aa)
+  - tulp3_bt (Length: 478 aa)
+  - tulp3_rn (Length: 463 aa)
+  - tulp3_mm (Length: 454 aa)
+  - tulp3_dr (Length: 323 aa)
+  - DmKINGTUBBY (Length: 460 aa)
+
+Cluster 1:
+  - AtTLP7 (Length: 379 aa)
+  - AtTLP10 (Length: 445 aa)
+  - AtTLP5 (Length: 429 aa)
+
